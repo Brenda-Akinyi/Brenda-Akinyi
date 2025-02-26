@@ -24,19 +24,4 @@ Welcome to my GitHub profile! I’m passionate about technology and always eager
 
 ---
 
-## 📊 **GitHub Stats**  
 
-![Brenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRENDA12BRE&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRENDA12BRE&layout=compact&theme=radical)  
-
----
-
-## 🏆 **GitHub Trophies**  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BRENDA12BRE&theme=radical&no-bg=true&no-frame=true)  
-
----
-
-## 👀 **Profile Views**  
-
-![Profile Views](https://komarev.com/ghpvc/?username=BRENDA12BRE&color=blue)  
